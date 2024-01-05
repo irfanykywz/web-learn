@@ -1,0 +1,1 @@
+https://www.scraperapi.com/blog/10-tips-for-web-scraping/#:~:text=To%20avoid%20sending%20all%20of,majority%20of%20websites%20without%20issue.
